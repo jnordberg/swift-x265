@@ -1,0 +1,4 @@
+module libx265 {
+    umbrella header "libx265.h"
+    link "x265"
+}
